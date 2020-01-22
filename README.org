@@ -1,0 +1,1 @@
+Notes on project for SuperCollider and sound sythesis
