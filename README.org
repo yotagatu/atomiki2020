@@ -1,7 +1,6 @@
 Notes on project for SuperCollider and sound synthesis
 * Objectives / Roadmap
-Explore SynthDefs and coding mechanisms from live coding tools based on sc-synth, in order to port these mechanisms to SuperCollider for own use.
-* Live Coding Enviroments
+* Live Coding Environments
 List of links to explore:
 ** FoxDot
 https://foxdot.org
